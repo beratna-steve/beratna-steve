@@ -17,8 +17,3 @@
 - Data analysis & visualization
 - Version control (Git)
 - Process optimization
-
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/steve-finckbeiner/)
-- [Email](mailto:steve@belterautomation.com)
-- https://www.stevefinckbeiner.com
