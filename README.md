@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I specialize in designing, developing, and optimiz
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/steve-finckbeiner/)
 - [Email](mailto:steve@belterautomation.com)
-- [Website] (stevefinckbeiner.com)
+- (https://www.stevefinckbeiner.com)
