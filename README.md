@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm a Laboratory Automation Engineer 👋
 
-<!--
-**beratna-steve/beratna-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I specialize in designing, developing, and optimizing automated solutions for laboratory environments. My work bridges the gap between science and technology, enabling researchers and labs to achieve higher throughput, accuracy, and reproducibility.
 
-Here are some ideas to get you started:
+## 🧪 About Me
+- **Role:** Laboratory Automation Engineer
+- **Expertise:** Robotics, liquid handling, LIMS integration, custom scripting, and workflow optimization
+- **Technologies:** Python, C#, Git, and various lab automation platforms (e.g., Green Button Go, Tecan Fluent, etc)
+- **Focus:** Streamlining scientific workflows, data integrity, and scalable automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Develop and maintain automated protocols for high-throughput screening
+- Integrate laboratory instruments with data management systems
+- Collaborate with scientists to translate experimental needs into robust automation solutions
+- Troubleshoot and optimize existing automation workflows
+
+## 🛠️ Skills
+- Laboratory robotics & liquid handlers
+- Scripting (Python, C#)
+- LIMS integration
+- Data analysis & visualization
+- Version control (Git)
+- Process optimization
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/steve-finckbeiner/)
+- [Email](mailto:steve@belterautomation.com)
+- [Website] (stevefinckbeiner.com)
