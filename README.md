@@ -5,7 +5,7 @@
 - **Focus:** Streamlining scientific workflows, data integrity, and scalable automation
 
 ## 🚀 What I Do
-- Develop and maintain automated protocols for high-throughput screening
+- Develop and maintain automated protocols for high-throughput screening, qPCR, NGS, and other assays
 - Integrate laboratory instruments with data management systems
 - Collaborate with scientists to translate experimental needs into robust automation solutions
 - Troubleshoot and optimize existing automation workflows
