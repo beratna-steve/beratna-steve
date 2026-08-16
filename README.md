@@ -1,7 +1,7 @@
 ## 🧪 About Me
 - **Role:** Laboratory AI/Automation Scientist
 - **Expertise:** Agentic Schedulers, automatic method documentation, RAG implementation for KGD creation and training, robotics, liquid handling, LIMS integration, custom scripting, and workflow optimization
-- **Technologies:** llama.cpp, Hugging Face transformers, Python, C#, Git, and various lab automation platforms (e.g., Green Button Go, Tecan Fluent, etc)
+- **Technologies:** llama.cpp, Hugging Face transformers, Ghidra, Python, Git, and various lab automation platforms (e.g., Green Button Go, Tecan Fluent, etc)
 - **Focus:**  Making lab automation so easy and cheap that the price of all healthcare must come down
   
 ## 🚀 What I Do
@@ -13,7 +13,8 @@
 
 ## 🛠️ Skills
 - Deploying open weight LLMs for small teams
-- RAG implementations to make documentation fast and easy 
+- RAG implementations to make documentation fast and easy
+- Reverse engineering instrument software to create AI-enabled native compilers
 - Laboratory robotics & liquid handlers
 - Scripting (Python, C#)
 - LIMS integration
